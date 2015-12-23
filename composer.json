@@ -1,7 +1,7 @@
 {
     "name": "caffeinated/path",
     "description": "Easily customize your Laravel paths.",
-    "keywords": ["laravel", "caffeinated", "path"],
+    "keywords": ["laravel", "caffeinated", "path", "structure"],
     "license": "MIT",
     "authors": [
         {
