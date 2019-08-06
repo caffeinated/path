@@ -1,3 +1,5 @@
+# This package has been abandoned and is no longer maintained.
+
 Caffeinated Path
 ================
 [![Laravel 5.2](https://img.shields.io/badge/Laravel-5.2-orange.svg?style=flat-square)](http://laravel.com)
